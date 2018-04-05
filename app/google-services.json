@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1034715144650",
+    "firebase_url": "https://assignmet-40c8b.firebaseio.com",
+    "project_id": "assignmet-40c8b",
+    "storage_bucket": "assignmet-40c8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034715144650:android:5fc2ddc5f15e104a",
+        "android_client_info": {
+          "package_name": "com.kumar.vikas.assignmet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034715144650-3113ripf6rv2p4t10r129hgmmfoam7bj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kumar.vikas.assignmet",
+            "certificate_hash": "87d2c6ecb425152bfc79f64abae544bb4cad1581"
+          }
+        },
+        {
+          "client_id": "1034715144650-lfnvdqa00e6mosvsejunivlc8s7gku6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkt1S9KPmClszbYWp7q_9B6dC0nlehhYU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034715144650-lfnvdqa00e6mosvsejunivlc8s7gku6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
